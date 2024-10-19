@@ -1,0 +1,3 @@
+# Single Responsibility Principle (SRP) en PHP: Mejora la Cohesión y Mantenibilidad de tu Código
+
+- En este tutorial aprenderás a aplicar el principio de responsabilidad única (SRP) en PHP, uno de los pilares de SOLID. Descubre cómo dividir tus clases para que cada una tenga una única responsabilidad, mejorando la cohesión de tu código y facilitando su mantenimiento. Implementaremos ejemplos prácticos que te ayudarán a entender cómo este principio te permitirá crear aplicaciones más limpias, flexibles y fáciles de escalar. ¡Optimiza tu desarrollo y lleva tus habilidades de programación al siguiente nivel!
